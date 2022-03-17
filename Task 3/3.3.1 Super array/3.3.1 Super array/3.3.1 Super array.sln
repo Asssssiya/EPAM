@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.3.1 Super array", "3.3.1 Super array.csproj", "{945E448E-9838-42C9-B01D-7EC019D3FB7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{945E448E-9838-42C9-B01D-7EC019D3FB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945E448E-9838-42C9-B01D-7EC019D3FB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945E448E-9838-42C9-B01D-7EC019D3FB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945E448E-9838-42C9-B01D-7EC019D3FB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6804EDA3-1D67-49AA-B447-172E671FFA5B}
+	EndGlobalSection
+EndGlobal
